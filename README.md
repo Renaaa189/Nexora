@@ -62,10 +62,9 @@ La aplicación incluye funciones como creación de nuevos chats, edición de nom
 </p>
 
 ---
-## Vista del sistema
 <p align="center">
   <img src="Documentación/Imagenes/NexoraInicio.PNG" width="700"
-       style="border: 2px solid #1e293b; border-radius: 12px; padding: 6px; background-color: #0f172a; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+       style="border: 2px solid #ffffff; border-radius: 12px; padding: 6px; background-color: #ffffff; box-shadow: 0 4px 20px rgba(0,0,0,0.25);" />
 </p>
 
 <p align="center">
@@ -76,7 +75,7 @@ La aplicación incluye funciones como creación de nuevos chats, edición de nom
 
 <p align="center">
   <img src="Documentación/Imagenes/NexoraChat.PNG" width="700"
-       style="border: 2px solid #1e293b; border-radius: 12px; padding: 6px; background-color: #0f172a; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+       style="border: 2px solid #ffffff; border-radius: 12px; padding: 6px; background-color: #ffffff; box-shadow: 0 4px 20px rgba(0,0,0,0.25);" />
 </p>
 
 <p align="center">
@@ -89,17 +88,17 @@ La aplicación incluye funciones como creación de nuevos chats, edición de nom
   <tr>
     <td align="center">
       <img src="Documentación/Imagenes/NexoraChats.PNG" width="250"
-           style="border: 2px solid #1e293b; border-radius: 10px; padding: 4px; background-color: #0f172a;" /><br>
+           style="border: 2px solid #ffffff; border-radius: 10px; padding: 4px; background-color: #ffffff;" /><br>
       <sub>Chats</sub>
     </td>
     <td align="center">
       <img src="Documentación/Imagenes/NexoraPerfil.PNG" width="250"
-           style="border: 2px solid #1e293b; border-radius: 10px; padding: 4px; background-color: #0f172a;" /><br>
+           style="border: 2px solid #ffffff; border-radius: 10px; padding: 4px; background-color: #ffffff;" /><br>
       <sub>Perfil</sub>
     </td>
     <td align="center">
       <img src="Documentación/Imagenes/NexoraAjustes.PNG" width="250"
-           style="border: 2px solid #1e293b; border-radius: 10px; padding: 4px; background-color: #0f172a;" /><br>
+           style="border: 2px solid #ffffff; border-radius: 10px; padding: 4px; background-color: #ffffff;" /><br>
       <sub>Ajustes</sub>
     </td>
   </tr>
