@@ -63,7 +63,6 @@ La aplicación incluye funciones como creación de nuevos chats, edición de nom
 
 ---
 ## Vista del sistema
-## Vista del sistema
 
 <table align="center">
   <tr>
