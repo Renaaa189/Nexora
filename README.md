@@ -62,47 +62,49 @@ La aplicación incluye funciones como creación de nuevos chats, edición de nom
 </p>
 
 ---
-<p align="center">
-  <img src="Documentación/Imagenes/NexoraInicio.PNG" width="700"
-       style="border: 2px solid #ffffff; border-radius: 12px; padding: 6px; background-color: #ffffff; box-shadow: 0 4px 20px rgba(0,0,0,0.25);" />
-</p>
+## Vista del sistema
+## Vista del sistema
 
-<p align="center">
-  <sub>Pantalla principal del chatbot</sub>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="Documentación/Imagenes/NexoraChat.PNG" width="700"
-       style="border: 2px solid #ffffff; border-radius: 12px; padding: 6px; background-color: #ffffff; box-shadow: 0 4px 20px rgba(0,0,0,0.25);" />
-</p>
-
-<p align="center">
-  <sub>Conversación en tiempo real con Nexora</sub>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Documentación/Imagenes/NexoraInicio.PNG" width="700" style="border: 3px solid white; border-radius: 10px;"/><br>
+      <sub>Pantalla principal del chatbot</sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="Documentación/Imagenes/NexoraChats.PNG" width="250"
-           style="border: 2px solid #ffffff; border-radius: 10px; padding: 4px; background-color: #ffffff;" /><br>
+      <img src="Documentación/Imagenes/NexoraChat.PNG" width="700" style="border: 3px solid white; border-radius: 10px;"/><br>
+      <sub>Conversación en tiempo real con Nexora</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Documentación/Imagenes/NexoraChats.PNG" width="250" style="border: 2px solid white; border-radius: 8px;"/><br>
       <sub>Chats</sub>
     </td>
     <td align="center">
-      <img src="Documentación/Imagenes/NexoraPerfil.PNG" width="250"
-           style="border: 2px solid #ffffff; border-radius: 10px; padding: 4px; background-color: #ffffff;" /><br>
+      <img src="Documentación/Imagenes/NexoraPerfil.PNG" width="250" style="border: 2px solid white; border-radius: 8px;"/><br>
       <sub>Perfil</sub>
     </td>
     <td align="center">
-      <img src="Documentación/Imagenes/NexoraAjustes.PNG" width="250"
-           style="border: 2px solid #ffffff; border-radius: 10px; padding: 4px; background-color: #ffffff;" /><br>
+      <img src="Documentación/Imagenes/NexoraAjustes.PNG" width="250" style="border: 2px solid white; border-radius: 8px;"/><br>
       <sub>Ajustes</sub>
     </td>
   </tr>
 </table>
+
+---
 ---
 
 ## [Instalación del proyecto](./Documentación/Nexora%20-%20Documentación.pdf)
