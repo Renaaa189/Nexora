@@ -1,0 +1,17 @@
+{
+  "d9d65632-681c-4016-978f-614891edbe23": {
+    "title": "Nuevo chat",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hola",
+        "avatar": "\u2728"
+      },
+      {
+        "role": "assistant",
+        "content": "\u00a1Hola! \u00bfEn qu\u00e9 puedo ayudarte hoy?",
+        "avatar": "\ud83e\udd16"
+      }
+    ]
+  }
+}
