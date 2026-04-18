@@ -4,7 +4,7 @@
 
 ## Introducción
 
-**NEXORA** es un chatbot con inteligencia artificial desarrollado en Python que permite mantener conversaciones con un modelo de lenguaje avanzado.  
+**NEXORA** es un chatbot on inteligencia artificial desarrollado en Python que permite mantener conversaciones con un modelo de lenguaje avanzado.  
 
 Funciona como una aplicación web local creada con Streamlit y utiliza la API de Groq para generar respuestas en tiempo real. Está pensado para que cualquier persona pueda usarlo, incluso sin experiencia previa en programación.
 
