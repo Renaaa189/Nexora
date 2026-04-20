@@ -1,6 +1,8 @@
+<!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e1b4b,100:4c1d95&height=220&section=header&text=NEXORA&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img src="Documentación/Imagenes/Nexora.gif" width="100%" />
 </p>
+
 
 ## Introducción
 
