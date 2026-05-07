@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="Documentación/Imagenes/Nexora.gif" width="100%" />
+  <img src="./Documentación/Imagenes/banner/banner.svg" width="100%" />
 </p>
 
 
@@ -64,6 +64,7 @@ La aplicación incluye funciones como creación de nuevos chats, edición de nom
 </p>
 
 ---
+
 ## Vista del sistema
 
 <table align="center">
@@ -106,11 +107,11 @@ La aplicación incluye funciones como creación de nuevos chats, edición de nom
 </table>
 
 ---
----
 
-## [Instalación del proyecto](./Documentación/Nexora%20-%20Documentación.pdf)
+## 📘 [Instalación del proyecto](./Documentación/Nexora%20-%20Documentación.pdf)
 
 <p>Para usar NEXORA necesitás:</p>
+
 <ul>
   <li>Python 3 o superior</li>
   <li>Conexión a internet</li>
@@ -118,22 +119,16 @@ La aplicación incluye funciones como creación de nuevos chats, edición de nom
 
 <pre><code>python --version</code></pre>
 
-
-
 ### Paso 1: Descargar el proyecto
 
 <pre><code>git clone https://github.com/Renaaa189/Nexora.git
 cd Nexora</code></pre>
 
-
-
 ### Paso 2: Instalar dependencias
 
 <pre><code>pip install -r requirements.txt</code></pre>
 
-<hr>
-
-### Paso 3: Configurar API Key</h3>
+### Paso 3: Configurar API Key
 
 <ul>
   <li>Crear cuenta en https://console.groq.com/</li>
@@ -148,9 +143,7 @@ cd Nexora</code></pre>
 
 <pre><code>CLAVE_API = "TU_API_KEY"</code></pre>
 
-<hr>
-
-### Paso 4: Ejecutar la app</h3>
+### Paso 4: Ejecutar la app
 
 <pre><code>streamlit run chatbot.py</code></pre>
 
@@ -158,5 +151,9 @@ cd Nexora</code></pre>
 
 <pre><code>http://localhost:8505/</code></pre>
 
-<hr>
+---
 
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e1b4b,100:4c1d95&height=100&section=footer"/>
+</p>
