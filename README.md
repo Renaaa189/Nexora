@@ -135,7 +135,7 @@ cd Nexora</code></pre>
   <li>Generar una API Key</li>
 </ul>
 
-<p>Crear archivo:</p>
+<p>Crear archivo :</p>
 
 <pre><code>.streamlit/secrets.toml</code></pre>
 
