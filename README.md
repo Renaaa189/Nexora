@@ -14,7 +14,6 @@ La aplicación incluye funciones como creación de nuevos chats, edición de nom
 
 ---
 
-
 ## Características principales
 
 ### Interacción con IA
