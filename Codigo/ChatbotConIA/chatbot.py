@@ -101,7 +101,7 @@ if emoji_input:
     if is_emoji_only(emoji_input):
         st.session_state.user_avatar = emoji_input
     else:
-        st.sidebar.warning("Solo podés usar emojis 🙂")
+        st.sidebar.warning("Solo podés usar emojis ")
 
 st.sidebar.markdown("---")
 
@@ -202,3 +202,4 @@ if user_input:
         placeholder.markdown(full)
 
     save("assistant", full, "🤖")
+    
