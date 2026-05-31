@@ -106,7 +106,7 @@ if emoji_input:
 st.sidebar.markdown("---")
 
 # ---------------- SIDEBAR: CHATS ----------------
-st.sidebar.title("💬 Chats")
+st.sidebar.title(" Chats")
 
 if st.sidebar.button("➕ Nuevo chat"):
     cid = str(uuid.uuid4())
@@ -146,7 +146,7 @@ if st.session_state.editing_chat:
 
 st.sidebar.markdown("---")
 
-st.sidebar.title("⚙️ Ajustes")
+st.sidebar.title(" Ajustes")
 
 st.session_state.temperature = st.sidebar.slider(
     "Creatividad",
@@ -165,7 +165,7 @@ st.session_state.max_tokens = st.sidebar.slider(
 )
 
 # ---------------- HEADER NEXORA ----------------
-st.title("🤖 NEXORA")
+st.title(" NEXORA")
 
 st.markdown("### Hola soy **NEXORA**, tu asistente virtual 👋")
 
