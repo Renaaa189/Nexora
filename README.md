@@ -10,7 +10,7 @@
 
 Funciona como una aplicación web local creada con Streamlit y utiliza la API de Groq para generar respuestas en tiempo real. Está pensado para que cualquier persona pueda usarlo, incluso sin experiencia previa en programación.
 
-La aplicación incluye funciones como creación de nuevos chats, edición de nombres, personalización del usuario con nombre y emoji, y ajustes del comportamiento de la IA como la creatividad de las respuestas o su longitud. Todo esto dentro de una interfaz simple y amigable tipo chat.
+La aplicación incluye funciones como creación de nuevos chats, edición de nombres, personalización del usuario con nombre y emoji, y ajustes del comportamiento de la IA como la creatividad de las respuestas o su longitud. Todo esto dentro de una interfaz simple y amigable tipo chat. 
 
 ---
 
